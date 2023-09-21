@@ -1,0 +1,797 @@
+* margin {
+  margin: 0;
+  height: 0;
+}
+
+body {
+  background: #f9f9f9;
+
+}
+.navbar-img img {
+  position: relative;
+  top: -20px;
+  margin-left: -8px;
+  width: 1263px;
+  height: 700px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.lorem {
+  position: relative;
+  z-index: 1;
+  top: -660px;
+  font-size: 32px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 58rem;
+  color: aliceblue;
+  align-items: center;
+  justify-content: center;
+  font-family: "Unica One";
+}
+.lorem b {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.lorem button {
+  flex-wrap: wrap;
+  border-radius: 27.5px;
+  background: #00d664;
+  border: none;
+  width: 150px;
+  height: 40px;
+  color: aliceblue;
+  flex-wrap: wrap;
+}
+
+.lorem-pro {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "poppins";
+  align-items: center;
+  position: relative;
+  top: -710px;
+  gap: 24px;
+  font-size: 16px;
+  padding-left: 160px;
+  color: aliceblue;
+}
+
+.lorem-pro p {
+  font-size: 18px;
+}
+
+.title {
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  top: -700px;
+  color: #fff;
+  font-family: "poppins";
+}
+
+.title-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.title-bg h1 {
+  font-size: 50px;
+  position: relative;
+}
+.title-bg p {
+  font-family: Mrs Saint Delafield;
+  font-size: 50px;
+  position: relative;
+  top: 74px;
+}
+
+.title-bg button {
+  width: 180px;
+  height: 50px;
+  border-radius: 14px;
+  border: none;
+  background-color: #00d664;
+  color: #fff;
+  font-size: 14px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "poppins";
+  font-size: 20px;
+}
+
+.price {
+  margin-top: -600px;
+}
+.price h2 {
+  font-family: Mrs Saint Delafield;
+  color: #acacac;
+  font-size: 44px;
+}
+
+.price p {
+  font-size: 18px;
+  color: #696969;
+}
+
+.catering {
+  display: flex;
+  flex-wrap: wrap;
+
+  color: #1e266d;
+}
+.group {
+  padding: 60px;
+}
+
+.group-1 h1 {
+  font-size: 25px;
+  display: flex;
+  gap: 10px;
+}
+
+.group-1 p {
+  padding-left: 40px;
+  font-size: 22px;
+  color: #696969;
+}
+
+.services {
+  background: #f7f4fb;
+  width: 1255px;
+  height: 690px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-family: "poppins";
+}
+
+.contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: -100px;
+}
+
+.services .mos {
+  color: #1e266d;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "poppins";
+  font-size: 20px;
+  padding-top: 0px;
+}
+
+.services-bg {
+  /* display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: row; */
+  background: #ffffff;
+  width: 290px;
+  height: 290px;
+}
+
+.services-bg img {
+  display: flex;
+
+  padding-left: 100px;
+  padding-top: 16px;
+  width: 80px;
+  height: 80px;
+}
+
+.alvido {
+  padding-top: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.alvido b {
+  color: #1e266d;
+
+  font-size: 24px;
+}
+.alvido p {
+  color: #696969;
+  text-align: center;
+}
+
+.alvido a {
+  color: #00d664;
+}
+
+.more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -100px;
+}
+
+.more button {
+  width: 150px;
+  height: 45px;
+  border: none;
+  background: #00d664;
+  border-radius: 22px;
+  color: #ffffff;
+}
+
+.map img {
+  margin-left: -10px;
+  width: 1265px;
+
+  height: 700px;
+}
+
+.map-1 {
+  color: #ffffff;
+  position: relative;
+  top: -700px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.content {
+  margin-left: 240px;
+  position: relative;
+  top: -630px;
+  background: #fdfdfd;
+  width: 800px;
+  border-radius: 12px;
+  height: 450px;
+  font-family: "poppins";
+}
+
+.content-1 {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  padding: 7px;
+  padding-top: 22px;
+}
+
+.bol {
+  border: 1px solid #d4d1d1;
+}
+
+.content-1 d {
+  color: #acacac;
+}
+.dinner {
+  padding-top: 20px;
+  padding-left: 10px;
+}
+.dil {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  padding-left: 40px;
+  gap: 1rem;
+}
+
+.line {
+  display: flex;
+}
+
+.dil img {
+  padding: px;
+  width: 80px;
+  height: 80px;
+}
+
+.review {
+  background: #f5f6fe;
+  width: 1240px;
+  height: 580px;
+  margin-top: -580px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "poppins";
+}
+
+.review-left img {
+  padding: 60px;
+}
+
+.review-left {
+  display: flex;
+  flex-wrap: wrap;
+}
+.review-top {
+  padding-top: 120px;
+  position: relative;
+
+  left: -50px;
+}
+
+.review-top h2 {
+  color: #1e266d;
+  font-size: 26px;
+}
+
+.review-top button {
+  width: 160px;
+  height: 45px;
+  border: none;
+  background: #00d664;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: relative;
+  top: 100px;
+}
+
+.review-top p {
+  position: relative;
+  top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.visit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+
+}
+
+
+
+.store {
+  font-family: "poppins";
+  color: #1e266d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px;
+  text-align: center;
+}
+
+.store-city {
+
+
+  font-family: "poppins";
+
+}
+
+.pork {
+  position: relative;
+  top: -30px;
+  display: flex;
+  align-items: center;
+  gap: 8rem;
+}
+
+
+.love {
+  display: flex;
+  align-items: center;
+  justify-content: center
+
+}
+.love button {
+  width: 160px;
+  height: 45px;
+  border: none;
+  background-color: #00d664;
+  color: #ffffff;
+  border-radius: 22px;
+
+}
+
+.sway {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+
+}
+
+.sway-work {
+
+  background: #FFFFFF;
+  Width:381px;
+  Height:340px;
+  border-radius: 12px;
+}
+
+.forim {
+  display: flex;
+ padding: 40px 40px;
+}
+
+.forim-1 {
+  padding-left: 20px;
+  padding-top: 5px;
+  gap: 6px;
+  font-family: 'poppins';
+  font-size: 17px;
+  display: flex;
+  flex-direction: column;
+  color: #00d664;
+}
+
+.forim-1 d {
+  color: #acacac;
+}
+
+
+.smith {
+  position: relative;
+  top: -30px;
+
+  font-family:'poppins';
+font-size: 18px;
+  padding-left: 50px;
+}
+
+
+.smith p {
+  color: #696969;
+  font-family: 'poppins';
+  font-size: 14px;
+
+}
+
+
+
+.ritmo {
+  display: flex;
+   padding: 40px;
+  align-items: center;
+ flex-wrap: wrap;
+ padding-top: 50px;
+}
+
+
+.tima {
+  display: flex;
+  flex-wrap: wrap;
+  gap:18rem;
+  display: flex;
+  font-family: 'poppins';
+}
+
+.tima p {
+  font-size: 12px;
+  color: #696969;
+}
+.tima-1 .defr {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+font-family: 'poppins';
+border-radius: 12px;
+  width: 287px;
+  height: 45px;
+  background:  #FFFF;
+}
+
+
+.tima-1 button {
+  font-family: 'poppins';
+  width: 150px;
+  color: #fff;
+  position: relative;
+  left: 180px;
+  height: 45px;
+  border: none;
+  border-radius: 22px;
+  background: #00d664;
+}
+
+
+.new-york img {
+  width: 1250px;
+  height: 600px;
+  padding-top: 40px;
+}
+
+.servg {
+  display: flex;
+
+  align-items: center;
+    font-size: 18px;
+  gap: 2rem;
+  padding: 50px;
+}
+
+
+.fec {
+  padding-left: 600px;
+}
+
+
+.dribble {
+  display: flex;
+  flex-direction: column;
+  padding-left: 42px;
+  gap: 1rem;
+}
+
+
+
+.follow {
+  display: flex;
+  flex-wrap: wrap;
+}
+.ipone {
+  font-family: 'poppins';
+  display: flex;
+   gap: 3rem;
+}
+
+
+
+.oy {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 200px;
+  gap: 1rem;
+}
+.foiz {
+  display: flex;
+
+  padding: 40px;
+  gap: 16rem;
+}
+.foiz b {
+  padding-top: 20px;
+}
+.ipone {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+  .navbar-img img {
+    width: 430px;
+    position: relative;
+
+    height: 440px;
+  }
+
+  .lorem b {
+    position: relative;
+    top: 235px;
+    left: -120px;
+    z-index: 1;
+    font-size: 35px;
+    color: rgb(248, 244, 244);
+  }
+
+  .lorem button {
+    display: none;
+  }
+  .lorem-pro {
+    display: none;
+  }
+
+  .burger {
+    cursor: pointer;
+  }
+
+  .burger div {
+    position: relative;
+    top: -460px;
+    left: 310px;
+    height: 3px;
+    z-index: 1;
+    width: 25px;
+    background-color: #f9f9f9;
+    margin: 5px;
+  }
+  .title {
+    padding-top: 40px;
+  }
+  .title-bg p {
+    font-size: 36px;
+    padding-top: 130px;
+  }
+  .title-bg h1 {
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+  }
+  .title-bg a {
+    font-size: 10px;
+  }
+
+  .footer {
+    position: relative;
+  }
+
+  .price h2 {
+    font-size: 30px;
+  }
+
+  .price h1 {
+    font-size: 20px;
+  }
+  .price p {
+    font-size: 14px;
+  }
+  .catering {
+    font-size: 12px;
+    position: relative;
+    top: -140px;
+  }
+
+  .group h1 {
+    font-size: 16px;
+  }
+
+  .ummon img {
+    width: 380px;
+    height: 380px;
+    display: flex;
+    width: 100%;
+  }
+
+  .services {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 1700px;
+    width: 100%;
+  }
+
+  .mos h2 {
+    text-align: center;
+    font-size: 22px;
+    width: 100%;
+  }
+
+  .map img {
+    width: 100%;
+    width: 400px;
+    height: 400px;
+  }
+  .menu-card {
+    display: none;
+  }
+  .review {
+    width: 400px;
+    height: 900px;
+    position: relative;
+    top: 560px;
+  }
+
+  .review-left img {
+    width: 400px;
+    height: 400px;
+    width: 100%;
+    position: relative;
+    left: -68px;
+  }
+  .review-top h2 {
+    font-size: 22px;
+  }
+  .review-top {
+    position: relative;
+    left: 10px;
+    top: -200px;
+    font-size: 11px;
+    width: 100%;
+  }
+  .review-top button {
+    position: relative;
+    left: 100px;
+  }
+
+  .store {
+    position: relative;
+    width: 100%;
+
+    top: 500px;
+  }
+
+  .visit {
+    position: relative;
+    width: 100%;
+    top: 500px;
+  }
+  .love {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    top: 505px;
+  }
+
+  .sway {
+    position: relative;
+    top: 500px;
+
+
+  }
+  .tima {
+    display: none;
+
+
+  }
+
+  .new-york {
+    display: none;
+  }
+
+  .follow {
+    display: none;
+    position: relative;
+    top: 300px;
+  }
+
+  .servg {
+
+    font-size: 12px;
+    position: relative;
+    top: 100px;
+    left: -12px;
+  }
+  .ipone {
+    position: relative;
+    top: 100px;
+
+  }
+  .oy {
+    display: none;
+  }
+  .foiz {
+    display: none;
+  }
+}
+
+
